@@ -29,7 +29,7 @@ This Python program interacts with a game API that presents various challenges r
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Dingo97/Loldle.net-Guesser/blob/main/LICENSE) file for details.
 
 ## 🎇 Acknowledgements
 
