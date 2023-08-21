@@ -8,8 +8,10 @@ Annie
 Aphelios
 Ashe
 Aurelion Sol
+Akshan
 Azir
 Bard
+Bel'Veth
 Blitzcrank
 Brand
 Braum
@@ -35,6 +37,7 @@ Garen
 Gnar
 Gragas
 Graves
+Gwen
 Hecarim
 Heimerdinger
 Illaoi
@@ -46,6 +49,7 @@ Jax
 Jayce
 Jhin
 Jinx
+K'Sante
 Kai'Sa
 Kalista
 Karma
@@ -72,6 +76,7 @@ Malzahar
 Maokai
 Master Yi
 Miss Fortune
+Milio
 Mordekaiser
 Morgana
 Nami
@@ -79,6 +84,7 @@ Nasus
 Nautilus
 Neeko
 Nidalee
+Nilah
 Nocturne
 Nunu & Willump
 Olaf
@@ -93,6 +99,7 @@ Rakan
 Rammus
 Rek'Sai
 Rell
+Renata Glasc
 Renekton
 Rengar
 Riven
@@ -137,6 +144,7 @@ Viktor
 Viego
 Vladimir
 Volibear
+Vex
 Warwick
 Wukong
 Xayah
@@ -148,6 +156,7 @@ Yorick
 Yuumi
 Zac
 Zed
+Zeri
 Ziggs
 Zilean
 Zoe
