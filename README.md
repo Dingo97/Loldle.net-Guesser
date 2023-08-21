@@ -1,11 +1,11 @@
-# What's Loldle Game?
+# 🤔 What's Loldle Game?
 In this game, the challenge revolves around guessing the names of League of Legends champions. Each time the game is initiated, a new set of champions is randomly selected. These champions are divided into seven distinct attributes: Gender, Position, Species, Resource, Range Type, Region, and Release Year.
 https://loldle.net/
 
-# What's Loldle Guesser?
+# 💡 What's Loldle Guesser?
 This Python program interacts with a game API that presents various challenges related to League of Legends champions. The challenges involve guessing different attributes of the champions, such as their names, quotes, abilities, emojis, and splash arts.
 
-## Features
+## 💬 Features
 
 - The program reads a list of champion names from a text file called `champions.txt`.
 - It iterates through different game URLs, each corresponding to a specific challenge.
@@ -15,23 +15,23 @@ This Python program interacts with a game API that presents various challenges r
 - Once a correct answer is found, the incorrect champion name is cleared, and the program proceeds to the next stage.
 - The program provides feedback on whether the correct champion was identified or not for each stage.
 
-## Usage
+## 🐱‍💻 Usage
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Verify that the `champions.txt` file is in the same directory as the `main.py`.
 4. Run the program using `python main.py`.
 
-## Dependencies
+## 💻 Dependencies
 
 - `requests`: Used to make HTTP requests to the game API.
 - `termcolor`: Used to display colored text in the console.
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License.
 
-## Acknowledgements
+## 🎇 Acknowledgements
 
 This project was created for fun and educational purposes. It is not affiliated with or endorsed by Riot Games, the developer of League of Legends, Pimeko, the developer of LoLdle.
 
