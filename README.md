@@ -19,7 +19,7 @@ This Python program interacts with a game API that presents various challenges r
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Verify that the `champions.txt` file is in the same directory as the main.py.
+3. Verify that the `champions.txt` file is in the same directory as the `main.py`.
 4. Run the program using `python main.py`.
 
 ## Dependencies
